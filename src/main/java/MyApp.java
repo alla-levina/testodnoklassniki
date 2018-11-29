@@ -15,7 +15,7 @@ public class MyApp {
      * @param args an array of String arguments to be parsed
      */
 
-    private static final String RADIUS = "3";
+    private static final String RADIUS = "5";
 
     public static void main(String[] args) {
 
